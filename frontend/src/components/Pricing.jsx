@@ -58,9 +58,7 @@ const Pricing = () => {
                    <p> 
                     <Check/> Free Parking
                   </p>
-                   <p> 
-                    <Check/> Free Parking
-                  </p>
+                  
                   <Link to={"/"}>Join Now</Link>
                    
                 </div>
